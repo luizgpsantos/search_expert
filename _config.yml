@@ -1,0 +1,10 @@
+pygments: true
+markdown: rdiscount
+permalink: /:title.html
+auto: true
+exclude:
+  - Rakefile
+  - Gemfile
+  - .gitignore
+author: Luiz Guilherme P. Santos
+email: luizgpsantos@gmail.com

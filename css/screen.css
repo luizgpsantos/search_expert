@@ -1,0 +1,49 @@
+#blog-body {
+  background-color: #CCC;
+}
+
+div .hero-unit {
+  color: white !important;
+  background-color: #303030;
+}
+
+div .hero-unit a {
+  color: white;
+}
+
+p.post-content {
+    color: silver !important;
+}
+
+article.post-content-full {
+    background-color: #303030;
+    padding: 5px 5px 5px 15px;
+    margin: 5px 5px 5px 5px;
+}
+
+header.post-header-full {
+    color: white;
+}
+
+.post-content-full p {
+    color: silver;
+}
+
+.post-header-full a {
+    color: white;
+}
+
+.post-header-full a:hover {
+    color: white;
+}
+
+.post-content-full a:hover {
+    color: #08C;
+}
+
+.highlight {
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+    background-color: whiteSmoke;
+}
